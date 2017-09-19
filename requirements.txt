@@ -1,0 +1,6 @@
+scrapy
+flask
+elasticsearch
+webtest
+nose
+mock
